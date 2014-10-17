@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psa:home|Door43 (psa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psa|d43-psa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psa/archive/master.zip|d43-psa.zip]]
+
+**Recent Changes**
+{{changes>ns = psa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psa|Ethnologue data]]
+
